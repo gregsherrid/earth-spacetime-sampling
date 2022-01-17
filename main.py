@@ -37,11 +37,11 @@ def get_tolstoy(by="sentence"):
     spans = [x.strip() for x in spans]
     return [x for x in spans if len(x) > 0]
 
-def main():
-    for span in get_brutus_lines():
+def print_example_lat_long_pairs():
+    print("Latitude", "Longitude")
+    for span in get_tolstoy()[0:100]:
         value = text_to_float(span)
-        lat, lon = sample_lat_long(value, with_sqrt_pops=True)
-        row = [span, value, lat, lon]
-        print("|".join(map(str, row)))
- 
-main()
+        lat, lon = sample_lat_long(value)
+        print(lat, lon)
+
+print_example_lat_long_pairs()
