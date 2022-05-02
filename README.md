@@ -22,3 +22,4 @@
 - [War and Peace](https://www.gutenberg.org/ebooks/2600) Leo Tolstoy, translated by Aylmer Maude, via Project Gutenberg
 - [A tide in the affairs of men](http://shakespeare.mit.edu/julius_caesar/full.html), Julius Caesar 4.3, Shakespeare, via shakespeare.mit.edu
 - [The Gridded Population of the World, Version 4, Population Count, Revision 11, 2000](https://sedac.ciesin.columbia.edu/data/set/gpw-v4-population-count-rev11) from Center for International Earth Science Information Network - CIESIN - Columbia University
+- [Sailing to Byzantium](https://www.poetryfoundation.org/poems/43291/sailing-to-byzantium) William Butler Yeats, via Poetry Foundation
